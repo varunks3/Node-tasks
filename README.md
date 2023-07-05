@@ -1,8 +1,7 @@
 # Node-tasks
 ## Screenshots of Apps
 ### Get company users
-![get-company-users](https://github.com/varunks3/Node-tasks/assets/109992181/44ab9531-7568-4af9-b097-329e5a4a5433)
-
+![get-company-users](https://github.com/varunks3/Node-tasks/assets/109992181/d6adf966-9f74-4474-9381-c4e91f6905a7)
 ### Sort fruits
 ![sort-fruits](https://github.com/varunks3/Node-tasks/assets/109992181/98409773-245c-408e-b708-046d80873e0b)
 ## Development
